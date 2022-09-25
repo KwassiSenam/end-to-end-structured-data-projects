@@ -15,6 +15,6 @@ The "Heart Disease" field refers to the presence of heart disease in the patient
 
 
 ## Predictiong the sale price of Bulldozers
-View:<a id="Python Code here" href=""></a>
+View: [Python Code here](https://github.com/KwassiSenam/end-to-end-structured-data-projects/tree/main/bulldozer-price-prediction-project)
 
 This project consists of predicting future sale prices of bulldozers having the past data of past sales.
