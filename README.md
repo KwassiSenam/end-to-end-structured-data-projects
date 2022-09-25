@@ -11,7 +11,7 @@ Tools
 View:<a id="Python Code here" href=""></a>
 
 The heart-disease dataset consisting of features that are used to predict which patients are most likely to suffer from a heart disease in the near future.
-The "Heart Disease" field refers to the presence of heart disease in the patient. It is string valued "Absence" = no disease and "Presence" = disease.
+The "Heart Disease" field refers to the presence of heart disease in the patient.
 
 
 ## Predictiong the sale price of Bulldozers
