@@ -8,7 +8,8 @@ Tools
 # Contents
 
 ## Heart Disease Case Study
-View:<a id="Python Code here" href="https://github.com/KwassiSenam/end-to-end-structured-data-projects/tree/main/heart-disease-project"></a>
+View: ![Python Code here]([https://example.com/bild.jpg](https://github.com/KwassiSenam/end-to-end-structured-data-projects/tree/main/heart-disease-project))
+<a id="Python Code here" href="https://github.com/KwassiSenam/end-to-end-structured-data-projects/tree/main/heart-disease-project"></a>
 
 The heart-disease dataset consisting of features that are used to predict which patients are most likely to suffer from a heart disease in the near future.
 The "Heart Disease" field refers to the presence of heart disease in the patient.
