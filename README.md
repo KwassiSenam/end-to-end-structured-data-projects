@@ -22,4 +22,4 @@ This project consists of predicting future sale prices of bulldozers having the 
 ## Predictiong the sale price of a product
 View : Python Code here
 
-It can be hard to know how much something’s really worth. This project consists of trying to estimate the best price of a product based on information the seller provides for this product.
+It can be hard to know how much something is really worth. This project consists of trying to estimate the best price of a product based on information the seller provides for this product.
