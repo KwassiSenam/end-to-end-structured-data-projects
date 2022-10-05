@@ -3,7 +3,7 @@ Repository containing portfolio of structured data projects completed by me thro
 
 Tools
 * Python: NumPy, Pandas, Seaborn, Matplotlib
-* Machine Learning: scikit-learn
+* Machine Learning: scikit-learn, CatBoost
 
 # Contents
 
